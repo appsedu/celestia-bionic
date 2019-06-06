@@ -1,0 +1,16 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>lxde-education.directory</Directory>
+		<Menu>
+			<Name>education-Astronomy</Name>
+			<Directory>education-Astronomy.directory</Directory>
+			<Include>
+				<Filename>celestia.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

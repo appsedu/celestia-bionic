@@ -1,0 +1,3 @@
+*.deb
+celestia.tar.xz
+deb_package/usr/
